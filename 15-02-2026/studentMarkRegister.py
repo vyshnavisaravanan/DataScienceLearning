@@ -34,7 +34,7 @@ class StudentMarkRegister():
             print(f"Topper in {sub}: {self.students[topperIndices[i]]} with mark {self.studentMarkList[topperIndices[i],i]}")   
 
 
-students = ny.array(["Anu","vys","asd","WEW","dff"])
+students = ny.array(["Anu","vys","asd","WEW","dfssf"])
 subjects = ny.array(["eng","tam","adre"])
 
 SMR = StudentMarkRegister(students,subjects)
